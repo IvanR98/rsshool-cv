@@ -49,10 +49,10 @@ Object.defineProperty(
 ###Courses:
 
 *HTML and CSS course on Udemy by Anton Larichev (completed) 
-*JavaScript by Bogdan Stashchuk (completed) 
+*JavaScript course by Bogdan Stashchuk (completed) 
 *RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ###Languages: 
 
-*English - C1, 7 years of higher education in UK 
+*English - C1, very fluent 
 *Russian - native
